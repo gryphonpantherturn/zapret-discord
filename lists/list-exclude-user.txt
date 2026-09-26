@@ -1,0 +1,2 @@
+domain.example.abc
+# gryphonpantherturn/zapret-discord fad9a504a211
